@@ -1,2 +1,2 @@
 some_file is 
-Add was around well
+Hugo was around well.
